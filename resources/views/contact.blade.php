@@ -28,7 +28,7 @@
 
         <div class="form-group">
             <label for="message">Сообщение</label>
-            <textarea name="message" id="message" class="form-control" placeholder="33333">
+            <textarea name="message" id="message" class="form-control" placeholder="11">
             </textarea>
         </div>
 
